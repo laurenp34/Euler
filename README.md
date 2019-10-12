@@ -1,2 +1,1 @@
-# Euler
-Project Euler Systems Assignment
+Working solutions: 1,6
